@@ -1,7 +1,7 @@
 # CryptoClustering
  week 19 challenge
 
-The objective of this challenge was to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
+The objective of this challenge was to predict if cryptocurrencies are affected by 24-hour or 7-day price changes and group them based on profitability.
 
 ## Steps
 Detailed steps can be found in the Jupyter Notebook. Below is the general steps taken to complete the challenge:
